@@ -124,7 +124,7 @@ CUDA_VISIBLE_DEVICES=0 python inference.py --ckpt "logs/periodwave_turbo_base_st
 - FM: https://openreview.net/forum?id=PqvMRDCJT9t
 - VoiceBox (Mel-spectrogram Generation): https://openreview.net/forum?id=gzCS252hCO&noteId=e2GZZfeO9g
 - P-Flow (Mel-spectrogram Generation): https://openreview.net/forum?id=zNA7u7wtIN
-- RF-Wave (Waveform Generation): https://github.com/bfs18/rfwave (After paper submission, we found that the paper RF-Wave also utilized FM for waveform generation. However, they used it on the complex spectrogram domain for efficient waveform generation. It is cool idea!)
+- RF-Wave (Waveform Generation): https://github.com/bfs18/rfwave (After paper submission, we found that the paper RF-Wave also utilized FM for waveform generation. They used it on the complex spectrogram domain for efficient waveform generation. It is cool idea!)
   
 ### Inspired by the multi-period discriminator of HiFi-GAN, we first distillate the multi-periodic property in generator
 - HiFi-GAN: https://github.com/jik876/hifi-gan
