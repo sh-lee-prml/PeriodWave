@@ -35,7 +35,7 @@ This repository contains:
 - We have released PeriodWave-Turbo (4 Steps Models).
 - We have released PeriodWave.
 -->
-### Objective Evaluation Results on LJSpeech and LibriTTS 
+### Objective Evaluation Results of PeriodWave-Turbo on LJSpeech and LibriTTS 
 - [[Demo Page]](https://periodwave-turbo.github.io/audio-demo/)
 ![image](https://github.com/user-attachments/assets/570389f0-5437-4645-a3fb-dec7d12c232e)
 
