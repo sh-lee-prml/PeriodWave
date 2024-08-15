@@ -34,12 +34,19 @@ This repository contains:
 ### 24.00.00
 - We have released PeriodWave-L and PeriodWave-Turbo-L (4 Steps Models). We achieved PESQ of 4.454
 
-### 24.00.00
+### 24.08.00
 - We have released PeriodWave-Turbo (4 Steps Models).
 - We have released PeriodWave.
 -->
-### Objective Evaluation Results of PeriodWave-Turbo on LJSpeech and LibriTTS 
-- [[Demo Page]](https://periodwave-turbo.github.io/audio-demo/)
+### 24.08.16
+In this repositoy, we provide a new paradigm and architecture of Neural Vocoder that enables notably fast training and acheives SOTA performance. With 10 times fewer training times, we acheived State-of-The-Art Performance on LJSpeech and LibriTTS.
+
+First, Train the PeriodWave with conditional flow matching. 
+- [PeriodWave](https://arxiv.org/abs/2408.07547): The first successful conditional flow matching waveform generator that outperforms GAN-based Neural Vocoders
+
+Second, Accelerate the PeriodWave with adversarial flow matching optimzation. 
+- [PeriodWave-Turbo](): SOTA Few-step Generator tuned from PeriodWave
+
 ![image](https://github.com/user-attachments/assets/06a8d005-ca07-43b6-b947-c79d55d2819c)
 
 ## Todo
