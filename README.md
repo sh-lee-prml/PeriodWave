@@ -3,7 +3,7 @@
   <img src="periodwave.png" width="300"/>
 </p>
 
-##  <a src="https://img.shields.io/badge/cs.CV-2311.12454-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2408.07547"> <img src="https://img.shields.io/badge/cs.CV-2311.12454-b31b1b?logo=arxiv&logoColor=red"></a>|[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()|[Demo page](https://periodwave.github.io/demo/)|[PeriodWave-Turbo]( https://periodwave-turbo.github.io/audio-demo/)|[Checkpoint]() 
+##  <a src="https://img.shields.io/badge/cs.CV-2408.07547-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2408.07547"> <img src="https://img.shields.io/badge/cs.CV-2311.12454-b31b1b?logo=arxiv&logoColor=red"></a>|[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()|[Demo page](https://periodwave.github.io/demo/)|[PeriodWave-Turbo]( https://periodwave-turbo.github.io/audio-demo/)|[Checkpoint]() 
 
 **Sang-Hoon Lee<sup>1,2</sup>, Ha-Yeong Choi<sup>3</sup>, Seong-Whan Lee<sup>4</sup>**
 
