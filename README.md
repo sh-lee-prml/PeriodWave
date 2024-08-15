@@ -9,7 +9,7 @@
 
 <sup>1</sup> Department of Software and Computer Engineering, Ajou University, Suwon, Korea<br>
 <sup>2</sup> Department of Artificial Intelligence, Ajou University, Suwon, Korea<br>
-<sup>3</sup> KT, Seoul, Korea  <br>
+<sup>3</sup> AI Tech Lab, KT Corp., Seoul, Korea  <br>
 <sup>4</sup> Department of Artificial Intelligence, Korea University, Seoul, Korea  <br>
 
 <!--
