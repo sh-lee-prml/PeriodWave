@@ -1,6 +1,6 @@
 # PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation <br> <sub>The official implementation of PeriodWave and PeriodWave-Turbo</sub>
 <p align="center">
-  <img src="periodwave.png" width="400"/>
+  <img src="periodwave.png" width="300"/>
 </p>
 
 ##  <a src="https://img.shields.io/badge/cs.CV-2311.12454-b31b1b?logo=arxiv&logoColor=red" href="https://arxiv.org/abs/2408.07547"> <img src="https://img.shields.io/badge/cs.CV-2311.12454-b31b1b?logo=arxiv&logoColor=red"></a>|[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()|[Demo page](https://periodwave.github.io/demo/)|[PeriodWave-Turbo]( https://periodwave-turbo.github.io/audio-demo/)|[Checkpoint]() 
