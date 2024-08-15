@@ -37,7 +37,7 @@ This repository contains:
 -->
 ### Objective Evaluation Results of PeriodWave-Turbo on LJSpeech and LibriTTS 
 - [[Demo Page]](https://periodwave-turbo.github.io/audio-demo/)
-![image](https://github.com/user-attachments/assets/570389f0-5437-4645-a3fb-dec7d12c232e)
+![image](https://github.com/user-attachments/assets/06a8d005-ca07-43b6-b947-c79d55d2819c)
 
 ## Todo
 ### PeriodWave
