@@ -61,7 +61,7 @@ Second, Accelerate the PeriodWave with adversarial flow matching optimzation.
 - [ ] PeriodWave-Large (Trained with LibriTTS-train-960, 24 kHz, 100 bins)
       
 ### PeriodWave-Turbo 
-- [ ] Paper (PeriodWave-Turbo paper will be released soon.)
+- [x] Paper (PeriodWave-Turbo paper was released, https://arxiv.org/abs/2408.08019.)
 - [ ] PeriodWave-Turbo (4 Steps ODE, Euler Method)
 - [ ] PeriodWave-Turbo-Small (4 Steps ODE, Euler Method)
 - [ ] PeriodWave-Turbo-Large (4 Steps ODE, Euler Method)
