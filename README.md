@@ -3,7 +3,7 @@
   <img src="periodwave.png" width="300"/>
 </p>
 
-##  <a href="https://arxiv.org/abs/2408.07547"> <img src="https://img.shields.io/badge/cs.CV-2408.07547-b31b1b?logo=arxiv&logoColor=red"></a>|[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()|[Demo page](https://periodwave.github.io/demo/)|[PeriodWave-Turbo]( https://periodwave-turbo.github.io/audio-demo/)|[Checkpoint]() 
+##  <a href="https://arxiv.org/abs/2408.07547"> <img src="https://img.shields.io/badge/cs.CV-2408.07547-b31b1b?logo=arxiv&logoColor=red"></a>|<a href="https://arxiv.org/abs/2408.08019"> <img src="https://img.shields.io/badge/cs.CV-2408.08019-b31b1b?logo=arxiv&logoColor=red"></a>/|[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]()|[Demo page](https://periodwave.github.io/demo/)|[PeriodWave-Turbo]( https://periodwave-turbo.github.io/audio-demo/)|[Checkpoint]() 
 
 **Sang-Hoon Lee<sup>1,2</sup>, Ha-Yeong Choi<sup>3</sup>, Seong-Whan Lee<sup>4</sup>**
 
@@ -45,7 +45,7 @@ First, Train the PeriodWave with conditional flow matching.
 - [PeriodWave](https://arxiv.org/abs/2408.07547): The first successful conditional flow matching waveform generator that outperforms GAN-based Neural Vocoders
 
 Second, Accelerate the PeriodWave with adversarial flow matching optimzation. 
-- [PeriodWave-Turbo](): SOTA Few-step Generator tuned from PeriodWave
+- [PeriodWave-Turbo](https://arxiv.org/abs/2408.08019): SOTA Few-step Generator tuned from PeriodWave
 
 ![image](https://github.com/user-attachments/assets/06a8d005-ca07-43b6-b947-c79d55d2819c)
 
