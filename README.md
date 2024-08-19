@@ -39,7 +39,7 @@ This repository contains:
 - We have released PeriodWave.
 -->
 ### 24.08.16
-In this repositoy, we provide a new paradigm and architecture of Neural Vocoder that enables notably fast training and acheives SOTA performance. With 10 times fewer training times, we acheived State-of-The-Art Performance on LJSpeech and LibriTTS.
+In this repositoy, we provide a new paradigm and architecture of Neural Vocoder that enables notably fast training and achieves SOTA performance. With 10 times fewer training times, we acheived State-of-The-Art Performance on LJSpeech and LibriTTS.
 
 First, Train the PeriodWave with conditional flow matching. 
 - [PeriodWave](https://arxiv.org/abs/2408.07547): The first successful conditional flow matching waveform generator that outperforms GAN-based Neural Vocoders
